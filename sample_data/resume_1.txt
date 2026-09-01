@@ -1,0 +1,56 @@
+RAHUL SHARMA
+Email: rahul.sharma@email.com | Phone: +91-XXXXXXXXXX | LinkedIn: linkedin.com/in/rahul-sharma
+
+PROFESSIONAL SUMMARY
+Seasoned Machine Learning Engineer with 5 years of experience building and deploying AI systems. Specialized in natural language processing and developing deep learning solutions for real-world problems. Proficient in Python, TensorFlow, and cloud technologies. Strong track record of transforming research into production-grade applications.
+
+PROFESSIONAL EXPERIENCE
+
+Machine Learning Engineer | TechCorp AI | 2022 - Present
+- Designed and implemented neural networks for sentiment analysis achieving 94% accuracy
+- Built end-to-end NLP pipeline for text classification using transformers
+- Developed Python scripts for data preprocessing and feature engineering
+- Optimized SQL queries reducing database load by 40%
+- Deployed ML models to AWS using Docker and automated CI/CD pipelines
+- Mentored junior engineers on machine learning best practices
+
+Data Scientist | DataDriven Inc | 2020 - 2022
+- Developed predictive models using scikit-learn and TensorFlow
+- Conducted exploratory data analysis using Pandas and NumPy
+- Built data pipelines for ETL processes
+- Created visualizations using Matplotlib and Plotly
+- Collaborated with cross-functional teams on 5+ projects
+
+Software Developer | Tech Startup | 2019 - 2020
+- Developed Python backend services
+- Worked with REST APIs and FastAPI framework
+- Implemented database operations using PostgreSQL and SQL
+- Version control using Git and GitHub
+
+TECHNICAL SKILLS
+Programming Languages: Python, SQL, Bash
+Machine Learning: TensorFlow, PyTorch, Scikit-learn, Keras
+Data Science: Pandas, NumPy, Matplotlib, Plotly, Seaborn
+NLP: NLTK, SpaCy, HuggingFace Transformers, Text Classification
+Cloud Platforms: AWS (EC2, S3, SageMaker), Google Cloud
+Databases: MySQL, PostgreSQL, MongoDB
+Tools & Technologies: Docker, Git, Jupyter Notebooks, Linux
+Other: Deep Learning, Neural Networks, Model Deployment, MLOps
+
+EDUCATION
+B.Tech in Computer Science and Engineering | Delhi University | 2019
+GPA: 8.5/10
+
+CERTIFICATIONS
+- TensorFlow Developer Certified
+- AWS Certified Machine Learning Specialty
+
+PROJECTS
+1. Multilingual Sentiment Analysis System - Built neural network handling 15 languages, deployed on AWS
+2. Resume Classification Model - Developed deep learning model classifying resumes, 91% accuracy
+3. Text Summarization Pipeline - Implemented abstractive summarization using transformers
+
+ADDITIONAL INFORMATION
+- Active contributor to open-source ML projects
+- Speaker at tech conferences on NLP and deep learning
+- Passionate about making AI accessible and ethical

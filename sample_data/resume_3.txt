@@ -1,0 +1,43 @@
+AJAY KUMAR
+Software Developer | Bangalore, India
+
+ABOUT ME
+Experienced software developer with strong focus on backend development and system design. Proficient in multiple programming languages. Recently started exploring machine learning concepts.
+
+EXPERIENCE
+
+Software Engineer | Enterprise Solutions Ltd | 2021 - Present
+- Developed microservices using Node.js and Python
+- Designed REST APIs and integrated third-party services
+- Worked with databases: MySQL, MongoDB, Redis
+- Implemented caching strategies for performance optimization
+- Collaborated with DevOps team on deployment pipelines
+
+Backend Developer | E-commerce Startup | 2019 - 2021
+- Built payment processing systems
+- Implemented user authentication and authorization
+- Optimized database queries for high-traffic scenarios
+- Code review and mentoring junior developers
+
+Full Stack Developer | Tech Agency | 2018 - 2019
+- Developed full-stack web applications
+- Frontend: React, HTML, CSS, JavaScript
+- Backend: Python, Flask, Express
+- Database: PostgreSQL, MySQL
+
+SKILLS
+Programming: Python, Java, JavaScript, Go, SQL, Bash
+Frameworks: Django, Flask, Express, Spring Boot
+Databases: MySQL, PostgreSQL, MongoDB, Redis
+Cloud: AWS (EC2, S3, RDS), some Docker experience
+Tools: Git, Jenkins, Linux, REST APIs
+
+EDUCATION
+Bachelor of Engineering in Computer Science | 2018
+
+RECENT INTERESTS
+- Started learning TensorFlow through online courses
+- Exploring machine learning applications in backend systems
+- Building recommendation systems for e-commerce
+
+NOTE: Transitioning into ML from backend development

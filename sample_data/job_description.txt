@@ -1,0 +1,42 @@
+Machine Learning Engineer - Full-Time Position
+
+About the Role:
+We are seeking an experienced Machine Learning Engineer to join our AI research team. The ideal candidate will have a strong background in developing, deploying, and maintaining machine learning systems at scale.
+
+Key Responsibilities:
+- Design and implement machine learning models for natural language processing and text analysis
+- Build end-to-end pipelines for data processing, feature engineering, and model training
+- Develop deep learning models using neural networks and transformers
+- Optimize SQL queries and database operations for large-scale data analysis
+- Deploy machine learning applications to production using cloud services (AWS or Google Cloud)
+- Collaborate with data scientists and software engineers to solve complex problems
+- Write clean, maintainable Python code following best practices
+- Document models, experiments, and methodologies
+
+Required Skills:
+- 3+ years of experience with Python programming
+- Strong understanding of machine learning algorithms and deep learning
+- Experience with NLP (Natural Language Processing) and text classification
+- Proficiency in SQL and relational databases (MySQL, PostgreSQL)
+- Experience with ML frameworks like TensorFlow or PyTorch
+- Familiarity with data manipulation libraries (Pandas, NumPy)
+- Knowledge of cloud platforms (AWS, GCP, or Azure)
+- Understanding of software development practices and version control (Git)
+
+Nice to Have:
+- Experience with Docker and Kubernetes for containerization
+- Knowledge of MLOps and model monitoring
+- Experience with Apache Spark or distributed computing
+- Contributions to open-source ML projects
+- Knowledge of API development (REST, FastAPI)
+
+Education:
+- Bachelor's degree in Computer Science, Mathematics, Physics, or related field
+- Advanced degree (Master's or PhD) in relevant field preferred
+
+What We Offer:
+- Competitive salary
+- Health insurance
+- Remote work options
+- Professional development opportunities
+- Collaborative team environment

@@ -1,0 +1,44 @@
+PRIYA PATEL
+Email: priya.patel@email.com | LinkedIn: linkedin.com/in/priya-patel-data
+
+OBJECTIVE
+Data analyst with 3 years of experience seeking to transition into machine learning role. Strong foundation in data manipulation and analysis. Eager to apply Python and SQL skills to build intelligent systems.
+
+WORK EXPERIENCE
+
+Data Analyst | Analytics Corp | 2021 - Present
+- Analyzed large datasets using SQL and Python
+- Created dashboards using Tableau and Power BI
+- Performed statistical analysis on business metrics
+- Optimized database queries for performance
+- Documented data schemas and business logic
+
+Business Analyst | Consulting Firm | 2020 - 2021
+- Gathered requirements from stakeholders
+- Analyzed business processes and workflows
+- Created reports and presentations
+- Used Excel for data analysis
+
+Junior Developer | StartUp | 2019 - 2020
+- Learned Python basics
+- Worked on web development projects
+- Database maintenance using MySQL
+- Collaborated with small team
+
+SKILLS
+Languages: Python, SQL, JavaScript, HTML/CSS
+Data Tools: Pandas, NumPy (learning), Matplotlib
+Databases: MySQL, PostgreSQL
+Other: Excel, Git, Linux, Tableau
+
+EDUCATION
+B.Sc. in Mathematics | Mumbai University | 2019
+
+PERSONAL PROJECTS
+- Iris Flower Classification using Scikit-learn (beginner project)
+- Stock Price Prediction (regression model)
+- SQL optimization tutorials and practice
+
+CERTIFICATIONS
+- Google Analytics Certified
+- DataCamp Python Course (In Progress)

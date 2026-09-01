@@ -1,0 +1,53 @@
+DR. VIKRAM VERMA
+Email: vikram.verma@university.edu
+
+OBJECTIVE
+Ph.D. in Physics with research interest in computational physics and data analysis. Transitioning to industry ML roles.
+
+EDUCATION
+Ph.D. in Physics | IIT Delhi | 2022
+- Research Focus: Computational methods for quantum systems
+- Published 12 papers in peer-reviewed journals
+- Thesis: "Advanced Mathematical Models for Physical Systems"
+
+M.Sc. in Physics | Delhi University | 2018
+
+B.Sc. in Physics | Delhi University | 2016
+
+RESEARCH EXPERIENCE
+
+Postdoctoral Researcher | University of Technology | 2022 - 2024
+- Developed mathematical models and algorithms
+- Performed numerical simulations
+- Statistical analysis of experimental data
+- Used Python for scientific computing
+
+Research Scholar | IIT Delhi | 2018 - 2022
+- Computational research in quantum physics
+- Used Python (NumPy, SciPy, Matplotlib)
+- Numerical methods and mathematical optimization
+- Big data analysis for particle simulations
+
+TECHNICAL SKILLS
+Programming: Python, MATLAB, C++
+Data Analysis: NumPy, SciPy, Pandas
+Scientific Computing: Statistical methods, Numerical analysis
+Other: LaTeX, Git, Linux
+Strong Math Background: Linear algebra, Calculus, Probability, Statistics
+
+PUBLICATIONS
+- Published 12 peer-reviewed papers
+- Strong publication record in computational physics
+
+CHALLENGES
+- Limited experience with industry ML frameworks (TensorFlow, PyTorch)
+- No production ML deployment experience
+- Background in physics rather than computer science
+- Needs to learn software engineering best practices
+
+STRENGTHS
+- Excellent mathematical and statistical foundation
+- Strong Python skills
+- Experience with large-scale data analysis
+- Problem-solving ability
+- Published researcher

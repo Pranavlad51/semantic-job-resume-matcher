@@ -1,0 +1,35 @@
+SNEHA GUPTA
+
+OBJECTIVE
+Front-end developer with expertise in React and JavaScript. Seeking to learn more about AI and machine learning technologies.
+
+EXPERIENCE
+
+Front-End Engineer | Web Agency | 2020 - Present
+- Built responsive web applications using React
+- Implemented UI/UX designs with HTML, CSS, JavaScript
+- Integrated REST APIs with frontend
+- Optimized performance and improved loading times
+- Collaborated with backend developers
+
+Web Developer | Freelance | 2019 - 2020
+- Created websites for small businesses
+- Used WordPress, HTML, CSS, JavaScript
+- Worked on both frontend and basic backend tasks
+
+INTERN | Tech Company | 2018 - 2019
+- Learned web development basics
+- Assisted senior developers
+- Practiced JavaScript and HTML
+
+SKILLS
+Frontend: React, HTML5, CSS3, JavaScript, Vue.js
+Databases: Basic SQL knowledge
+Tools: Git, VS Code, Chrome DevTools
+Other: Bootstrap, Material UI, Webpack
+
+EDUCATION
+Diploma in Web Development | 2019
+
+INTERESTS
+Learning about AI and its applications in web development
